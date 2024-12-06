@@ -4,13 +4,15 @@ Welcome to my personal website! Here you can find my blog, which i post frequent
 
 ---
 
-## About Me
+# About Me
 
 I am an avid Spaceflight Enthusiast, i have dedicated this website to be a blog where i will be posting on all things SpaceX.
 
 ---
 
 # Blog
+
+
 
 ## 12-6-2024
 SpaceX Transported Superheavy Booster 14 to the Launchsite via highway 4 for Static Fire tetsing. The Starship Static Fire stand was moved from Masseys to the Build sight in front of Megabay 2, for transport of Ship 33 to Massey's outpost for Static Fire Testing.
