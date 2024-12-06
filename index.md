@@ -1,16 +1,24 @@
-# Welcome to My Website
+# Welcome to My Website!
 
-Welcome to my personal website! Here you can find my blog, which i post frequently on.
+Welcome to my personal website! Here you can find my blog, which i will post frequently on.
 
 ---
 
-# About Me
+# About Me:
 
 I am an avid Spaceflight Enthusiast, i have dedicated this website to be a blog where i will be posting on all things SpaceX.
 
 ---
 
-# Blog
+# Contact Me:
+
+You can contact me via my discord ".etherus"
+or via X "@etherus_aero"
+please DM if you want to email me or want my Phone Number.
+my down time is from 9:00PM to 6:00AM MST
+
+
+# Blog:
 
 
 
@@ -24,3 +32,5 @@ President-Elect Donald Trump has selected private astronaut and philanthropist J
 ---
 
 Thank you for visiting my page!
+please consider following me on X at @etherus.aero
+
