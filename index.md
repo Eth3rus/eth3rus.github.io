@@ -21,6 +21,9 @@ my down time is from 9:00PM to 6:00AM MST
 
 # Personal Blog & Starship Updates
 
+## Starship Update: December 9, 2024
+Scaffolding was removed from the Orbital Launch Mount in preparation for Booster 14's static fire, Booster 14 successfully conducted an igniter test. Highway 4 was closed for the delivery of propellant tanks to the launch complex.
+
 ## Starship Update: December 7, 2024
 Booster 14 began propellant loading and conducted a successful Spin Prime test. Booster 14 is now ready for Static Fire testing. The Massey's Starship Static Fire Stand is still poised outside of Megabay 2, rollout is expected soon. Cranes were recently lifted at Launch Complex 39A at the Kennedy Space Center in Florida to begin retrofitting of the KSC Mechazilla. Work on it postponed in 2022 as the current OLM Design was outdated, but now we have an updated design for Block 2 of Starship under construction at the Sanchez lot, along with the digging of a Flame Diverter/Trench at OLM 2 at Starbase. The 2 cranes at 39A Began dismantling the vertical LOX tank so that it can be replaced by horizontal bullet tanks similar to those at Starbase. Work on the 39A OLM should begin next year, and should come online at the end of 2025.
 Ship 35's payload Bay section was spotted entering the highbay. This payload section had significantly less tiles on the sides, mimicking the design of Ship 31. This spotting of Ship 35's payload section indicates that a stacking will occur soon between the payload section and nosecone section. after these 2 sections are stacked the 2 stacked sections will be moved to Megabay 2 to allow for the rest of the sections to be stacked.
