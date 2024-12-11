@@ -21,6 +21,12 @@ my down time is from 9:00PM to 6:00AM MST
 
 # Personal Blog & Starship Updates
 
+---
+
+## Starship Update: December 11, 2024
+An Intermittent road closure has been issued for highway 4 from 10am to 2pm for transportation from the Production Site to Massey's.
+the Closure has since been revoked for unknown reasons.
+
 ## Starship Update: December 10, 2024
 A white crane has lifted another piece of the flame trench for the second launch site inro position for assembly at the Sanchez lot. Later today Boosteer 14 was lifted off the Orbital launch Mount in preperation for transportation back to the Star Factory. Two large cryogenic propellent holding tanks were moved from the port of brownsville to the Launch Complex overnight, These tanks will expand the current capacity of the Orbital Tank Farm; to service the soon to be online Orbital Launch Integration Tower B. Later Booster 14 began it's roll back to the production site at Starbase for final inspections and FTS instillation for the upcoming seventh Integrated Test Flight of Starship. Flight seven will involve the first flight of a Block 2 (Version 2) upper stage (Ship 33). Flight seven will happen no earlier than January 11, 2025. After returning to the Production site, Booster 14 recieved the instillation of scaffolding frames around it's common dome area, the cause or implications of this are unknown.
 
