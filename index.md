@@ -23,6 +23,10 @@ my down time is from 9:00PM to 6:00AM MST
 
 ---
 
+## Starship Update: December 13, 2024
+SpaceX made major moves in South Texas yesterday as UTRGV's board approved selling their Stargate facility to the company for market value. Building on this momentum, SpaceX filed a petition today with Cameron County for a special election on incorporating Starbase as an official municipality, citing workforce growth needs for Starship production. The company also plans to relocate its headquarters to the new city.
+Meanwhile, activities continue at the Massey's test site with Ship 33 undergoing both cryogenic loading and spin prime testing of its engines. Site construction also progresses, with a new vertical storage tank arriving overnight.
+
 ## Starship Update: December 11, 2024
 An Intermittent road closure has been issued for highway 4 from 10am to 2pm for transportation from the Production Site to Massey's.
 the Closure has since been revoked for unknown reasons.
