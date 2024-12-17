@@ -22,6 +22,12 @@ my down time is from 9:00PM to 6:00AM MST
 # Personal Blog & Starship Updates
 
 ---
+## Starship Update: December 16,2024
+
+In a series of developments at SpaceX's Starbase facility in Boca Chica, Texas, Ship 33, the first Version 2 Starship prototype, has completed multiple test objectives over the past week.
+The testing sequence began with the arrival of a vertical storage tank at the launch site on Friday, December 13. The following day, Ship 33 underwent its first propellant loading operation, though the attempt was cut short, resulting in a detanking procedure.
+On Sunday, December 15, the team achieved a significant milestone when Ship 33 successfully completed its first static fire test, marking a historic moment as the inaugural Version 2 Starship to do so. The testing campaign continued into Monday, December 16, with another cryogenic loading operation, followed by a single-engine static fire test, specifically focused on the retrograde de-orbit capabilities.
+Looking ahead, the Federal Aviation Administration (FAA) has announced plans to discuss SpaceX's proposed operational expansion at the Boca Chica facility. The agency will hold public meetings on January 7 and 9 in person, with an additional virtual session scheduled for January 13. These meetings will address the environmental impacts of increased Starship and Super Heavy launch vehicle operations in the area.
 
 ## Starship Update: December 13, 2024
 SpaceX made major moves in South Texas yesterday as UTRGV's board approved selling their Stargate facility to the company for market value. Building on this momentum, SpaceX filed a petition today with Cameron County for a special election on incorporating Starbase as an official municipality, citing workforce growth needs for Starship production. The company also plans to relocate its headquarters to the new city.
