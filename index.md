@@ -22,6 +22,14 @@ my down time is from 9:00PM to 6:00AM MST
 # Personal Blog & Starship Updates
 
 ---
+
+## Starship Update: December 17, 2024
+SpaceX Starbase Marks Major Milestones with Launch License and Infrastructure Progress.
+In a significant development for SpaceX's Starship program, the company received its launch license for Starship Flight 7 on December 17, marking a crucial step toward the next orbital test flight of the world's largest rocket system.
+The same day saw substantial progress in Starbase's expansion as crews successfully installed the first section of the water-cooled deck for the new Tower 2 orbital launch mount. This addition represents a key component of SpaceX's efforts to establish multiple launch capabilities at their Boca Chica facility.
+Adding to the day's events, the Starbase community came together for a festive Christmas parade, bringing holiday cheer to the facility. The celebration offered a lighter moment amid the intensive technical preparations and construction activities.
+These developments signal SpaceX's continued momentum in both regulatory compliance and infrastructure expansion as the company prepares for increased launch operations from its Texas facility.
+
 ## Starship Update: December 16,2024
 
 In a series of developments at SpaceX's Starbase facility in Boca Chica, Texas, Ship 33, the first Version 2 Starship prototype, has completed multiple test objectives over the past week.
