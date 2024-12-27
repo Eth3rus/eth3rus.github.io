@@ -23,6 +23,14 @@ my down time is from 9:00PM to 6:00AM MST
 
 ---
 
+## Starship Update: December 26, 2024
+SpaceX continues to make significant progress on its Starship program at Starbase, Texas, with multiple vehicles and ground support equipment undergoing preparations and modifications.
+On December 20, two major developments occurred with different Super Heavy boosters: Booster 15 was transported to Massey's for cryogenic testing, while the booster thrust simulator was relocated to Mega Bay, with B15 being mounted onto it.
+The following day, December 21, Booster 14 received additional structural reinforcements, showing SpaceX's continuous improvement approach to their vehicle design. This was followed by further modifications on December 22, when a new hot stage ring emerged from the Starfactory, destined for installation on Booster 14.
+On December 23, SpaceX made several updates to the launch infrastructure. New Starship lifting pins were installed on the chopsticks at Tower A, and the launch mount received a fresh coat of paint in preparation for the upcoming Flight 7 test.
+In a notable development at Kennedy Space Center's Launch Complex 39A, December 26 saw the first movement of the Mechazilla chopsticks since their installation nearly two years ago. However, this movement was performed manually, as the hydraulic systems are yet to be installed.
+These developments demonstrate SpaceX's parallel work streams across multiple boosters and launch facilities as they continue to advance the Starship program toward its next test flight.
+
 ## Starship Update: December 17, 2024
 SpaceX Starbase Marks Major Milestones with Launch License and Infrastructure Progress.
 In a significant development for SpaceX's Starship program, the company received its launch license for Starship Flight 7 on December 17, marking a crucial step toward the next orbital test flight of the world's largest rocket system.
